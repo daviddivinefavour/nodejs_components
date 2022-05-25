@@ -1,0 +1,4 @@
+1. Image upload
+2. Input validation
+3. email services
+4. Authentication
